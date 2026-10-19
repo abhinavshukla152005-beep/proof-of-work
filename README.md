@@ -4,6 +4,12 @@ A portfolio backed by evidence. Students build and share portfolios of projects,
 certificates and hackathons — every entry is labelled **Self-reported** or
 **Evidence linked** (never "verified"), and each user gets one clean public URL.
 
+## Preview
+
+| Public portfolio | Sign in |
+| --- | --- |
+| ![Public portfolio](assets/portfolio.png) | ![Sign in](assets/login.png) |
+
 ## Stack
 
 - Vite + React + React Router (hash routing)
